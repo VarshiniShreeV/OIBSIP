@@ -40,7 +40,7 @@ Follow these instructions to get the app up and running on your local machine.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/VarshiniShreeV/random-password-generator.git
+   git clone https://github.com/VarshiniShreeV/OIBSIP/random-password-generator.git
 
 1. Change into the project directory:
 
